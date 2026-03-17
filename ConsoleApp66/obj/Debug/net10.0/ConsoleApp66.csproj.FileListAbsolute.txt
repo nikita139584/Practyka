@@ -1,0 +1,14 @@
+C:\Users\stask\source\repos\ConsoleApp66\bin\Debug\net10.0\ConsoleApp66.exe
+C:\Users\stask\source\repos\ConsoleApp66\bin\Debug\net10.0\ConsoleApp66.deps.json
+C:\Users\stask\source\repos\ConsoleApp66\bin\Debug\net10.0\ConsoleApp66.runtimeconfig.json
+C:\Users\stask\source\repos\ConsoleApp66\bin\Debug\net10.0\ConsoleApp66.dll
+C:\Users\stask\source\repos\ConsoleApp66\bin\Debug\net10.0\ConsoleApp66.pdb
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\ConsoleApp66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\ConsoleApp66.AssemblyInfoInputs.cache
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\ConsoleApp66.AssemblyInfo.cs
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\ConsoleApp66.csproj.CoreCompileInputs.cache
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\ConsoleApp66.dll
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\refint\ConsoleApp66.dll
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\ConsoleApp66.pdb
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\ConsoleApp66.genruntimeconfig.cache
+C:\Users\stask\source\repos\ConsoleApp66\obj\Debug\net10.0\ref\ConsoleApp66.dll
